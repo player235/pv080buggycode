@@ -14,7 +14,7 @@ def transcode_file(_, filename):
 
 
 # Assert statements
-def foo(_, user):
+def efoo(_, user):
     assert user.is_admin, 'user does not have access'
     # secure code...
 
